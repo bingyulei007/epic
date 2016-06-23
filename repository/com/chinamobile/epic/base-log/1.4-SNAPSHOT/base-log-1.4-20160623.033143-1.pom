@@ -109,7 +109,7 @@
   <distributionManagement>
     <repository>
       <id>bingyulei-mvn-repo</id>
-      <url>file:///D:/maven/chinamobile/epic/repository</url>
+      <url>file://D:/maven/chinamobile/epic/repository</url>
     </repository>
   </distributionManagement>
 </project>
